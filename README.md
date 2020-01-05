@@ -27,6 +27,6 @@ lora-relay.ino :
 	is received.
 
 /webserver/index.php :
-	This is the php file that is updated (rewritten) by loramon.ph
+	This is the php file that is updated (rewritten) by loramon.php
 	when new gps data is received.
 
